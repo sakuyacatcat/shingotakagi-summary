@@ -8,3 +8,6 @@
 
 - [zenn](https://zenn.dev/shingo_takagi)
 - [note](https://note.com/shingo_takagi/)
+
+![snek go brr](https://raw.githubusercontent.com/sakuyacatcat/shingotakagi-summary/snek/snek-light.svg#gh-light-mode-only)
+![snek go brr](https://raw.githubusercontent.com/sakuyacatcat/shingotakagi-summary/snek/snek-dark.svg#gh-dark-mode-only)
