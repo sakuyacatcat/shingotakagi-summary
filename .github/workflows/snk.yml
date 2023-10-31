@@ -1,11 +1,6 @@
 name: snek go brr
 
 on:
-  # run on every push to main branch
-  push:
-    branches:
-      - main
-
   # run automatically once every day
   schedule:
     - cron: "0 0 * * *"
