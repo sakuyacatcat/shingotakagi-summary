@@ -2,6 +2,8 @@ name: GitHub-Profile-Summary-Cards
 
 on:
   push:
+    branches:
+      - main
   schedule: # execute every 24 hours
     - cron: "* */24 * * *"
   workflow_dispatch:
@@ -20,3 +22,4 @@ jobs:
           GITHUB_TOKEN: ${{ secrets.PERSONAL_ACCESS_TOKEN }}
         with:
           USERNAME: ${{ github.repository_owner }}
+          BRANCH_NAME: "main"
